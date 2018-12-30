@@ -1,2 +1,5 @@
 * text=auto
-
+*.png -text
+*.jpg -text
+*.bmp -text
+*.gif -text
