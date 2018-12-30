@@ -1,0 +1,9 @@
+// sudo update-alternatives --config java
+// select: /usr/lib/jvm/java-6-openjdk-i386/jre/bin/java
+// scala hello
+
+object Hello {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
